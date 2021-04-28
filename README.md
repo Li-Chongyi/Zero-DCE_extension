@@ -71,4 +71,4 @@ The code is made available for academic research purpose only. This project is o
 (Full paper: https://ieeexplore.ieee.org/document/9369102 or arXiv version: https://arxiv.org/abs/2103.00860)
 
 ## Contact
-If you have any questions, please contact Chongyi Li at lichongyi25@gmail.com or Chunle Guo at guochunle@tju.edu.cn.
+If you have any questions, please contact Chongyi Li at lichongyi25@gmail.com or Chunle Guo at guochunle@nankai.edu.cn.
