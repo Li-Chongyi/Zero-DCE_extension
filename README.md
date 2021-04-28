@@ -22,7 +22,7 @@ Or you can create a conda environment to run our code like this:
 conda create --name zerodce++_env opencv pytorch==1.0.0 torchvision==0.2.1 cuda100 python=3.7 -c pytorch
 
 ### Folder structure
-Download the Zero-DCE_code++ first.
+Download the Zero-DCE++ first.
 The following shows the basic folder structure.
 ```
 
@@ -57,7 +57,7 @@ The code is made available for academic research purpose only. This project is o
 ## Bibtex
 
 ```
-@inproceedings{Zero-DCE,
+@inproceedings{Zero-DCE++,
  author = {Li, Chongyi and Guo, Chunle Guo and Loy, Chen Change},
  title = {Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation},
  booktitle = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
