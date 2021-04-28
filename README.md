@@ -1,12 +1,8 @@
 # Zero-DCE++
 
-You can find more details here: https://li-chongyi.github.io/Proj_Zero-DCE++.html. Have fun!
+You can find more details here: https://li-chongyi.github.io/Proj_Zero-DCE++.html. 
 
 You can find the details of our CVPR version: https://li-chongyi.github.io/Proj_Zero-DCE.html. 
-
-You can find more details here: https://li-chongyi.github.io/Proj_Zero-DCE.html. Have fun!
-
-The implementation of Zero-DCE++ is for non-commercial use only. 
 
 ✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
@@ -54,6 +50,9 @@ cd Zero-DCE++
 ```
 python lowlight_train.py 
 ```
+
+##  License
+The code is made available for academic research purpose only. This project is open sourced under MIT license.
 
 ## Bibtex
 
