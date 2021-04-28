@@ -4,7 +4,7 @@ You can find more details here: https://li-chongyi.github.io/Proj_Zero-DCE++.htm
 
 You can find the details of our CVPR version: https://li-chongyi.github.io/Proj_Zero-DCE.html. 
 
-✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
+✌If you use this code, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
 # Pytorch
 Pytorch implementation of Zero-DCE++
