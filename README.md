@@ -6,6 +6,9 @@ You can find the details of our CVPR version: https://li-chongyi.github.io/Proj_
 
 ✌If you use this code, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
+
+✌We released a survey on deep learning-based low-light image enhancement Lighting the Darkness in the Deep Learning Era that includes a survey, an online platform, a new dataset. Have fun! https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open. 
+
 # Pytorch
 Pytorch implementation of Zero-DCE++
 
