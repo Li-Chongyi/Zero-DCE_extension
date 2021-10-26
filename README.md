@@ -6,6 +6,7 @@ You can find the details of our CVPR version: https://li-chongyi.github.io/Proj_
 
 ✌If you use this code, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
+We also provided a MindSpore version of our code: https://pan.baidu.com/s/1kEjKtYYSwvzHCzDh_4niew (passwords: 37ne). 
 
 🌈We released a survey on deep learning-based low-light image enhancement------- Low-Light Image and Video Enhancement Using Deep Learning: A Survey, an online platform, a new dataset. Have fun! https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open. 
 
