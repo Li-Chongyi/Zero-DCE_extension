@@ -56,7 +56,7 @@ python lowlight_train.py
 ```
 
 ##  License
-The code is made available for academic research purpose only. This project is open sourced under MIT license.
+The code is made available for academic research purpose only. 
 
 ## Bibtex
 
