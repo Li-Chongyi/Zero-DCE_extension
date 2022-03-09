@@ -56,7 +56,7 @@ python lowlight_train.py
 ```
 
 ##  License
-The code is made available for academic research purpose only. 
+The code is made available for academic research purpose only. Under Attribution-NonCommercial 4.0 International License.
 
 ## Bibtex
 
