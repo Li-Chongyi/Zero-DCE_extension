@@ -59,7 +59,7 @@ if __name__ == '__main__':
 		sum_time = 0
 		for file_name in file_list:
 			test_list = glob.glob(filePath+file_name+"/*") 
-		for image in test_list:
+		    for image in test_list:
 
 				print(image)
 				sum_time = sum_time + lowlight(image)
