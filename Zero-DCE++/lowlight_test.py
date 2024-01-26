@@ -47,6 +47,7 @@ def lowlight(image_path):
 	if not os.path.exists(image_path.replace('/'+image_path.split("/")[-1],'')):
 		os.makedirs(image_path.replace('/'+image_path.split("/")[-1],''))
 	# import pdb;pdb.set_trace()
+	
 	torchvision.utils.save_image(enhanced_image, result_path)
 	return end_time
 
@@ -59,8 +60,7 @@ if __name__ == '__main__':
 		sum_time = 0
 		for file_name in file_list:
 			test_list = glob.glob(filePath+file_name+"/*") 
-		    for image in test_list:
-
+			for image in test_list:
 				print(image)
 				sum_time = sum_time + lowlight(image)
 
